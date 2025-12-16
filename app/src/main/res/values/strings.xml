@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dickel Zeiterfassung</string>
+    
+    <!-- Status Labels -->
+    <string name="status_idle">Idle</string>
+    <string name="status_arbeit">Arbeit</string>
+    <string name="status_kunde">Kunde</string>
+    <string name="status_fahrt">Fahrt</string>
+    <string name="status_pause">Pause</string>
+    <string name="status_feierabend">Feierabend</string>
+    
+    <!-- Button Labels -->
+    <string name="btn_arbeitszeit_starten">Arbeitszeit starten</string>
+    <string name="btn_kundenzeit_starten">Kundenzeit starten</string>
+    <string name="btn_kundenzeit_beenden">Kundenzeit beenden</string>
+    <string name="btn_fahrt_starten">Fahrt starten</string>
+    <string name="btn_fahrt_beenden">Fahrt beenden</string>
+    <string name="btn_pause_starten">Pause starten</string>
+    <string name="btn_pause_beenden">Pause beenden</string>
+    <string name="btn_feierabend">Feierabend</string>
+    
+    <!-- Serviceschein -->
+    <string name="serviceschein_erstellen">Serviceschein erstellen</string>
+    <string name="serviceschein_jetzt">Serviceschein jetzt</string>
+    <string name="serviceschein_spaeter">Serviceschein später</string>
+    <string name="serviceschein_prompt">Serviceschein erstellen?</string>
+    
+    <!-- NFC Fallback -->
+    <string name="nfc_fallback_title">NFC-Aktion wählen</string>
+    <string name="nfc_auto">Auto (Abfahrt zum Kunden)</string>
+    <string name="nfc_firma">Firma (Einstempeln)</string>
+    <string name="nfc_cancel">Abbrechen</string>
+    
+    <!-- Navigation -->
+    <string name="nav_status">Status</string>
+    <string name="nav_material">Material</string>
+    
+    <!-- Sync -->
+    <string name="sync_now">Sync Now</string>
+    <string name="syncing">Syncing…</string>
+    <string name="sync_error">Sync Error</string>
+    <string name="pending_events">Pending Events</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Form Fields -->
+    <string name="field_customer">Kunde</string>
+    <string name="field_leistungen">Leistungen</string>
+    <string name="field_zeiten">Zeiten</string>
+    <string name="field_material">Material</string>
+    <string name="field_notizen">Notizen</string>
+    <string name="field_signature">Unterschrift</string>
+    <string name="field_clear_signature">Unterschrift löschen</string>
+    <string name="field_save">Speichern</string>
+    
+    <!-- Customer Selection -->
+    <string name="select_customer">Kunde auswählen</string>
+    
+    <!-- MA Overview -->
+    <string name="ma_overview">MA-Übersicht</string>
+    <string name="benutzer_id">Benutzer-ID</string>
+    
+    <!-- Speech to Text -->
+    <string name="speech_to_text">Diktierfunktion</string>
+    <string name="listening">Listening…</string>
+    
+    <!-- Material Screen -->
+    <string name="material_placeholder">Material und Verbrauch</string>
+    <string name="material_coming_soon">Diese Funktion wird bald verfügbar sein</string>
